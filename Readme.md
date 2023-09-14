@@ -1,1 +1,1 @@
-Teste para aprender a usar GIT
+Teste para usar GIT
